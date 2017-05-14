@@ -1,5 +1,5 @@
 # polygon_with_grid  
------- 
+------
 #### Description.  
 Function for postgres. Languare 'plpgsql'.  
 Function return multiline for polygon geomentry with grid.  
@@ -16,7 +16,7 @@ Example result.
 ![In work screenshot](https://raw.githubusercontent.com/eagle7410/polygon_with_grid/master/exp.jpg)
 ------  
 #### How install
-
+Run sql file. Goog luck. :)
 ------
 #### People
 Developer is [Igor Stcherbina](https://github.com/eagle7410)
