@@ -81,5 +81,5 @@ AS $$
 
 $$;
 
-ALTER FUNCTION public.ig_grid_geom(geometry, int)
+ALTER FUNCTION public.ig_polygon_with_grid(geometry, int)
 	OWNER TO postgres;
